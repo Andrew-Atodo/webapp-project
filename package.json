@@ -1,0 +1,16 @@
+{
+  "name": "webproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test:backend": "echo \"Running backend tests...\"",
+  "test:frontend": "echo \"Running frontend tests...\"",
+  "lint": "echo \"Linting code...\""
+}
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
